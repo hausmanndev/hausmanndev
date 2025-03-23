@@ -53,4 +53,10 @@
   <a href="https://twitter.com/biel_hausmann" target="_blank"><img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" target="_blank"></a>
   <a href="mailto:gabrielhausmann11@gmail.com"><img align="left" height="30" width="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank"></a>
 <div/>
+
+## Total de visitas no meu perfil :detective:
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/hausmanndev/count.svg" />
+ </p>
+
   
