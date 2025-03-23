@@ -9,9 +9,9 @@
 🏆 Interessado em programação científica e competitiva, explorando algoritmos avançados e resolução de problemas desafiadores.
 
 <div>
-  <a href="https://github/ghhausmann">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=ghhausmann&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghhausmann&layout=compact&langs_count=20&theme=dark"/>
+  <a href="https://github/hausmanndev">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=hausmanndev&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hausmanndev&layout=compact&langs_count=20&theme=dark"/>
 <div/>
 
 ### 🛠️ Linguagens e Ferramentas:
