@@ -43,6 +43,13 @@
 
 ##
 
+### Total de visitas no meu perfil :detective:
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/hausmanndev/count.svg" />
+ </p>
+
+##
+
 </br>
 
 📫 Contate-me pelo [Linkedin](https://www.linkedin.com/in/Gabriel-Hausmann/), [E-mail](mailto:gabrielhausmann@hotmail.com) ou pelas redes abaixo⬇️.
@@ -54,13 +61,6 @@
   <a href="mailto:gabrielhausmann11@gmail.com"><img align="left" height="30" width="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank"></a>
 <div/>
 
-</br>
 
-##
-
-### Total de visitas no meu perfil :detective:
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/hausmanndev/count.svg" />
- </p>
 
   
