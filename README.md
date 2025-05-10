@@ -34,6 +34,7 @@
   <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="left" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
   <img align="left" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
+  <!--<img align="left" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />-->
 </div>
 
 </br>
@@ -60,7 +61,7 @@
 
 </br>
 
-📫 Contate-me pelo [Linkedin](https://www.linkedin.com/in/Gabriel-Hausmann/), [E-mail](mailto:gabrielhausmann@hotmail.com) ou pelas redes abaixo⬇️.
+📫 Contate-me pelo [E-mail](mailto:gabrielhausmann@hotmail.com) ou pelas redes abaixo⬇️.
 
 <div>
   <a href="https://www.linkedin.com/in/Gabriel-Hausmann/" target="_blank"><img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"/></a> 
